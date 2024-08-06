@@ -12,10 +12,10 @@ async function handler(m, { conn, args, usedPrefix, command }) {
 *${usedPrefix + command}* exp 65 @${m.sender.split('@')[0]}
 
 📍 Item yang dapat ditransfer
-┌──────────────
+┌YORICHI──────────────
 ▢ *diamond* = Diamante 💎
 ▢ *exp* = Experiencia 🆙
-└──────────────
+└BOT──────────────
 `.trim()
     const type = (args[0] || '').toLowerCase()
     if (!item.includes(type)) return conn.reply(m.chat, lol, m, { mentions: [m.sender] })

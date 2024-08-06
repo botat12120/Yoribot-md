@@ -11,20 +11,20 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['994404282709', '👑 SUKUNA 👑', true],
-  ['967772822646', '💎 لوسيفار6٦ 💎', true],
-  ['994400668447', '🔥 ايتشيغو 🔥', true],
+  ['201009480596', '👑 𝐘𝐎𝐑𝐈𝐂𝐇𝐈 👑', true],
+  ['201009480596', '💎 𝒀𝑶𝑹𝑰𝑪𝑯𝑰 💎', true],
+  ['201009480596', '🔥 𝚈𝙾𝚁𝙸𝙲𝙷𝙸 🔥', true],
 ];
 
-global.suittag = ['994404282709'];
-global.prems = ['994404282709', '967772822646', '994400668447'];
+global.suittag = ['201009480596'];
+global.prems = ['201009480596', '201009480596', '201009480596'];
 
 global.packname = 'Sticker';
 global.author = '';
-global.wm = 'SUKUNA BOT';
-global.titulowm = 'SUKUNA BOT';
-global.titulowm2 = `SUKUNA Bot`
-global.igfg = 'SUKUNA Bot';
+global.wm = 'YOᖇIᑕᕼI BOT';
+global.titulowm = 'YOᖇIᑕᕼI BOT';
+global.titulowm2 = `YOᖇIᑕᕼI Bot`
+global.igfg = 'YOᖇIᑕᕼI Bot';
 global.wait = '*[ ⏳ ] تَحْميل...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -46,14 +46,14 @@ global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `${dia} ${fecha}\nshanks - Bot`;
-global.gt = 'sukuna Bot';
-global.mysticbot = 'SUKUNA Bot';
+global.gt = 'YOᖇIᑕᕼI Bot';
+global.mysticbot = 'YOᖇIᑕᕼI Bot';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*[ ⏳ ] Cargando...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
 global.waitttt = '*[ ⏳ ] Cargando...*';
-global.nomorown = '967701530463';
+global.nomorown = '201009480596';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
